@@ -1,4 +1,4 @@
-Pengalaman Belajar di Codecademy<br>
+###Pengalaman Belajar di Codecademy<br>
 
 -C#(70%)<br>
 -Javascript(55%)<br>
@@ -7,6 +7,6 @@ Pengalaman Belajar di Codecademy<br>
 -HTML(100%)<br>
 -CSS(60%)<br>
 
-Pengalaman Belajar di Javascript<br>
+###Pengalaman Belajar di Javascript<br>
 
 -Belajar dasar Pemrograman Javascript(100%)<br>
